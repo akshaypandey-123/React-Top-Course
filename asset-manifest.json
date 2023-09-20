@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Top-Course/static/css/main.c8fd15bd.css",
+    "main.js": "/React-Top-Course/static/js/main.6fead017.js",
+    "index.html": "/React-Top-Course/index.html",
+    "main.c8fd15bd.css.map": "/React-Top-Course/static/css/main.c8fd15bd.css.map",
+    "main.6fead017.js.map": "/React-Top-Course/static/js/main.6fead017.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8fd15bd.css",
+    "static/js/main.6fead017.js"
+  ]
+}
